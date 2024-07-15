@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Lean](https://github.com/RohanDaCoder/Lean)
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **App Development, Kotlin**
 
 - 💬 Ask me about **NodeJS, Discord Bots**
 
