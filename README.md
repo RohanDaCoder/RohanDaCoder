@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Lean (a Discord Bot)](https://github.com/RohanDaCoder/Lean)
 
-- 🌱 I’m currently learning **App Development, Kotlin**
+- 🌱 I’m currently learning **App Development, Kotlin, React**
 
 - 💬 Ask me about **NodeJS, Discord Bots**
 
