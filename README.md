@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohandacoder" alt="rohandacoder" /></a> </p>
 
-- 🔭 I’m currently working on [Lean (a Discord Bot)](https://github.com/RohanDaCoder/Lean)
+- 🔭 I’m currently working on [Lean](https://github.com/RohanDaCoder/Lean)
 
 - 🌱 I’m currently learning **App Development, Kotlin, React**
 
