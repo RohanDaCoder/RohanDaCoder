@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Synex](https://github.com/RohanDaCoder/Synex)
 
-- 🌱 I’m currently learning **App Development, Kotlin, React**
+- 🌱 I’m currently learning **App Development, Kotlin**
 
 - 💬 Ask me about **NodeJS, TypeScript, Discord Bots**
 
