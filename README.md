@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Synex](https://github.com/RohanDaCoder/Synex)
 
-- 🌱 I’m currently learning **App Development, Kotlin**
-
 - 💬 Ask me about **NodeJS, TypeScript, Discord Bots**
 
 - 📫 How to reach me **rohanbmgo2010@gmail.com**
